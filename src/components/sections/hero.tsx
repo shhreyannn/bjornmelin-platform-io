@@ -18,7 +18,7 @@ export function Hero() {
             <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-primary/10">
               <Image
                 src="/headshot/headshot-2024.jpg"
-                alt="Bjorn Melin"
+                alt="Shreyan Pattanayak"
                 fill
                 sizes="(max-width: 768px) 192px, 256px"
                 priority
@@ -34,10 +34,10 @@ export function Hero() {
             className="flex flex-col items-center"
           >
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-              Hi, I&apos;m Bjorn Melin
+              Hi, I&apos;m Shreyan Pattanayak
             </h1>
             <p className="mt-6 text-lg md:text-xl lg:text-2xl text-muted-foreground max-w-3xl">
-              Senior Data Scientist | Cloud Solutions Architect | 6x AWS Certified | AI/ML & GenAI Innovator
+              Machine Learning Intern | AI/ML & GenAI Innovator | 6x AWS Certified | Data Science & Predictive Analytics Expert
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <Link

@@ -2,9 +2,9 @@ import { Metadata } from "next";
 import { AboutDetail } from "@/components/sections/about-detail";
 
 export const metadata: Metadata = {
-  title: "About - Bjorn Melin | Senior Data Scientist & Cloud Architect",
+  title: "About - Shreyan Pattanayak | Machine Learning Intern & AI/ML Engineer",
   description:
-    "Learn more about Bjorn Melin, a Senior Data Scientist and Cloud Solutions Architect with 6 AWS certifications, specializing in AI/ML solutions and cloud architecture.",
+    "Learn more about Shreyan Pattanayak, a Machine Learning Intern and AI/ML Engineer with 6 AWS certifications, specializing in predictive analytics, model deployment, and MLOps solutions.",
 };
 
 export default function AboutPage() {

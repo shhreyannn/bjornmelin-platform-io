@@ -19,11 +19,55 @@ export interface Experience {
 
 export const experiences: Experience[] = [
   {
+    title: "Machine Learning Intern",
+    company: "Avanade",
+    location: "Minneapolis, Minnesota, United States",
+    startDate: "June 2024",
+    endDate: "Present",
+    isRemote: true,
+    achievements: [
+      {
+        text:
+          "Developed and deployed machine learning models for predictive analytics, improving client decision-making processes by 25%.",
+      },
+      {
+        text:
+          "Collaborated with cross-functional teams to integrate AI solutions into existing business workflows, " +
+          "resulting in streamlined operations and enhanced productivity.",
+      },
+      {
+        text:
+          "Conducted data analysis and feature engineering on large datasets, identifying key patterns and insights " +
+          "that drove strategic business recommendations.",
+      },
+      {
+        text:
+          "Implemented MLOps best practices including model versioning, automated testing, and continuous integration " +
+          "pipelines for machine learning workflows.",
+      },
+      {
+        text:
+          "Presented technical findings and model performance metrics to stakeholders, translating complex " +
+          "machine learning concepts into actionable business insights.",
+      },
+    ],
+    skills: [
+      { name: "Machine Learning" },
+      { name: "Python" },
+      { name: "Data Analysis" },
+      { name: "MLOps" },
+      { name: "Predictive Analytics" },
+      { name: "Feature Engineering" },
+      { name: "Model Deployment" },
+      { name: "Cross-functional Collaboration" },
+    ],
+  },
+  {
     title: "Senior Data Scientist",
     company: "3M",
     location: "Maplewood, Minnesota, United States",
     startDate: "May 2024",
-    endDate: "Present",
+    endDate: "June 2024",
     isRemote: true,
     achievements: [
       {

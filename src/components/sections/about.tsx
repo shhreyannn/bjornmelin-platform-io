@@ -25,11 +25,11 @@ export function About() {
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Crafting AI Solutions &{" "}
-            <span className="text-primary">Cloud Architecture</span>
+            <span className="text-primary">Machine Learning Models</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Senior Data Scientist and AWS Solutions Architect specializing in
-            AI/ML innovations and scalable cloud architecture
+            Machine Learning Intern and AI/ML Engineer specializing in
+            predictive analytics, model deployment, and MLOps best practices
           </p>
         </div>
 
@@ -44,11 +44,11 @@ export function About() {
               <h3 className="text-2xl font-semibold">Background</h3>
             </div>
             <p className="text-muted-foreground leading-relaxed">
-              As a Senior Data Scientist and Cloud Solutions Architect with 6
-              AWS certifications, I specialize in developing cutting-edge AI/ML
-              solutions and GenAI innovations. My expertise spans cloud
-              architecture, machine learning, and building scalable AI solutions
-              that drive business value.
+              As a Machine Learning Intern at Avanade with 6 AWS certifications, 
+              I specialize in developing predictive analytics models and implementing 
+              MLOps best practices. My expertise spans machine learning, data science, 
+              and building scalable AI solutions that drive business value and improve 
+              decision-making processes.
             </p>
           </Card>
 

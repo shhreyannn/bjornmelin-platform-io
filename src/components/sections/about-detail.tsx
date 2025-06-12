@@ -35,7 +35,7 @@ export function AboutDetail() {
             <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-primary/10">
               <Image
                 src="/headshot/headshot-2024.jpg"
-                alt="Bjorn Melin"
+                alt="Shreyan Pattanayak"
                 fill
                 sizes="192px"
                 priority
@@ -43,9 +43,9 @@ export function AboutDetail() {
               />
             </div>
             <div>
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">Bjorn Melin</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">Shreyan Pattanayak</h1>
               <p className="text-xl text-muted-foreground mb-4">
-                Senior Data Scientist & Cloud Solutions Architect
+                Machine Learning Intern | AI/ML & GenAI Innovator
               </p>
               <div className="flex flex-wrap gap-2">
                 <Badge variant="outline" className="bg-primary/10">
@@ -55,13 +55,13 @@ export function AboutDetail() {
                   <Brain className="w-3 h-3 mr-2" /> AI/ML Expert
                 </Badge>
                 <Badge variant="outline" className="bg-primary/10">
-                  <Building2 className="w-3 h-3 mr-2" /> Cloud Architect
+                  <Building2 className="w-3 h-3 mr-2" /> Data Scientist
                 </Badge>
                 <Badge variant="outline" className="bg-primary/10">
                   <Code className="w-3 h-3 mr-2" /> Full-Stack Developer
                 </Badge>
                 <Badge variant="outline" className="bg-primary/10">
-                  <Sparkles className="w-3 h-3 mr-2" /> Generative AI Evangelist
+                  <Sparkles className="w-3 h-3 mr-2" /> Machine Learning Engineer
                 </Badge>
               </div>
             </div>
@@ -82,24 +82,24 @@ export function AboutDetail() {
             </h2>
             <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
               <p>
-                AI Engineer and Machine Learning Engineer based in Salt Lake City, specializing in deep learning, generative AI,
-                and LLM applications. With a proven track record of delivering multi-million-dollar solutions, I bring 
-                expertise in building scalable, cost-effective systems on AWS and transforming
-                operations through efficient, reliable, and strategically designed solutions.
+                Machine Learning Intern and AI/ML Engineer currently at Avanade, specializing in predictive analytics,
+                model deployment, and MLOps best practices. With a strong foundation in data science and machine learning,
+                I bring expertise in developing and deploying ML models that drive business value and improve decision-making
+                processes by up to 25%.
               </p>
               <p>
-                My recent achievements include leading a high-profile neuro-symbolic AI project that reduced training data needs
-                by 40% and solved complex material science challenges. I successfully migrated 3M&apos;s Corporate Research Analytical
-                Lab&apos;s infrastructure to AWS, cutting cloud costs by 60% and establishing scalable frameworks for manufacturing
-                and divisional teams. I&apos;ve developed custom Python packages, reusable IaC libraries, and modernized CI/CD pipelines,
-                consistently delivering 50%+ improvements in performance and deployment efficiency.
+                My recent achievements include developing predictive analytics models at Avanade that enhanced client
+                decision-making processes, implementing MLOps pipelines with automated testing and continuous integration,
+                and collaborating with cross-functional teams to integrate AI solutions into existing business workflows.
+                Previously at 3M, I led groundbreaking neuro-symbolic AI projects, migrated infrastructure to AWS cutting
+                costs by 60%, and developed machine learning models with >95% accuracy.
               </p>
               <p>
                 With multiple AWS certifications and a strong foundation in Mathematics and Computer Science from Augsburg University,
-                I&apos;ve evolved from software engineering to become a leader in cloud architecture and data science. I&apos;m passionate
+                I&apos;ve evolved from software engineering to become a specialist in machine learning and data science. I&apos;m passionate
                 about advancing AI technologies and developing solutions that enable operational excellence and innovation. Outside of tech,
-                I&apos;m an avid freestyle skier and outdoor enthusiast, bringing the same dedication to precision and continuous
-                improvement from the slopes to my professional work.
+                I&apos;m an avid learner and technology enthusiast, bringing the same dedication to continuous improvement and innovation
+                from my personal interests to my professional work.
               </p>
             </div>
           </Card>

@@ -4,24 +4,24 @@ import { FeaturedProjects } from "@/components/sections/featured-projects";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect",
+  title: "Shreyan Pattanayak - Machine Learning Intern & AI/ML Engineer",
   description:
-    "Portfolio of Bjorn Melin, a Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML solutions, GenAI innovation, and cloud-native architectures. 6x AWS Certified professional with expertise in machine learning and scalable cloud solutions.",
+    "Portfolio of Shreyan Pattanayak, a Machine Learning Intern and AI/ML Engineer specializing in predictive analytics, model deployment, MLOps, and data science solutions. 6x AWS Certified professional with expertise in machine learning and scalable AI solutions.",
   openGraph: {
     type: 'website',
-    title: 'Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect',
-    description: 'Portfolio of Bjorn Melin, a Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML solutions, GenAI innovation, and cloud-native architectures.',
+    title: 'Shreyan Pattanayak - Machine Learning Intern & AI/ML Engineer',
+    description: 'Portfolio of Shreyan Pattanayak, a Machine Learning Intern and AI/ML Engineer specializing in predictive analytics, model deployment, MLOps, and data science solutions.',
     images: [{
       url: '/screenshots/hero-preview.png',
       width: 1200,
       height: 630,
-      alt: 'Bjorn Melin - Portfolio Hero Section'
+      alt: 'Shreyan Pattanayak - Portfolio Hero Section'
     }]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect',
-    description: 'Portfolio of Bjorn Melin, a Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML solutions, GenAI innovation, and cloud-native architectures.',
+    title: 'Shreyan Pattanayak - Machine Learning Intern & AI/ML Engineer',
+    description: 'Portfolio of Shreyan Pattanayak, a Machine Learning Intern and AI/ML Engineer specializing in predictive analytics, model deployment, MLOps, and data science solutions.',
     images: ['/screenshots/hero-preview.png']
   }
 };
